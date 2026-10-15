@@ -1,4 +1,4 @@
-﻿# Histórico de prompts e ações
+# Histórico de prompts e ações
 
 O conteúdo abaixo é uma cópia integral de `prompt.md`, usado como briefing do projeto depois da autorização do usuário. O arquivo-fonte foi mantido sem alterações.
 
